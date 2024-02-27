@@ -8,7 +8,7 @@ If the leafpad editor is opened without any errors then type the C code.**
 ****If the leafpad is not installed in ur machine then install by using the following command**
 
 **sudo snap install leafpad****
-![abfeaac4-90db-4b98-b24d-0ad2335fbdf6](https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/0983d61c-b74f-402e-ac89-0dc6553005e8)
+![ec5df64a-09d4-45c6-b416-584c9fb5d4f3](https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/94ded5ee-3396-4ccb-b66e-24506141b716)
 
 
 
@@ -24,13 +24,14 @@ If the leafpad editor is opened without any errors then type the C code.**
 **Step 4: Check for the errors by using the following command(compilation step)**
 
 **gcc sum1ton.c**
-![c83de552-3fc3-40a7-916b-7e7fb7bd24a1](https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/4a207193-fd4d-4d9a-a02e-2023f6b1eb5a)
+![ec5df64a-09d4-45c6-b416-584c9fb5d4f3](https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/2f7ac760-7db4-4712-9c04-cede6f200a53)
 
 
 **Step 5: Check the output by using the command**
 
 **./a.out**
-![c83de552-3fc3-40a7-916b-7e7fb7bd24a1](https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/1819ea4c-38a5-4299-a5fc-3153f38e3a3c)
+![ec5df64a-09d4-45c6-b416-584c9fb5d4f3](https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/95cc3571-bab9-4316-a44c-720a5b9742db)
+
 
 
 
@@ -44,15 +45,15 @@ If the leafpad editor is opened without any errors then type the C code.**
 **Step 1: View the C Code in the editor window using the following command**
 
 **cat sum1ton.c**
-![c83de552-3fc3-40a7-916b-7e7fb7bd24a1](https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/33f55be9-e4a8-4c86-ab45-ec3a76e0a5e3)
+![f9e4fb36-5922-4bef-b2b5-10f10d71ad8a](https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/8a92d80e-1ea4-4ed1-a264-dee2ffc3755b)
 
 
 
 **Step 2: Compile the code in riscv using the following command**
 
 **riscv64-unknown-elf-gcc -O1 -mabi=lp64 -march=rv64i -o sum1ton.o sum1ton.c**
-![c32a7a15-b5a7-4673-9db3-e48209c24fdc (1)](https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/4b373881-834d-404d-8e04-2829cfacff32)
 
+![c32a7a15-b5a7-4673-9db3-e48209c24fdc](https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/ab0cdbc7-bc6f-41be-b8ca-6d4e5d5763df)
 
 
 **Step 3: The ls ltr command in Linux is used to list the contents of the current directory in long format, sorted by last modified time in reverse order.**
@@ -60,29 +61,27 @@ If the leafpad editor is opened without any errors then type the C code.**
 **use the command**
 
 **ls -ltr sum1ton.c**
-![c32a7a15-b5a7-4673-9db3-e48209c24fdc (1)](https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/8b196e37-d5c3-4782-9461-33707908120a)
+![c32a7a15-b5a7-4673-9db3-e48209c24fdc](https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/0ac9e9eb-b3dc-4b37-a1ef-025ab218eb16)
 
-![c32a7a15-b5a7-4673-9db3-e48209c24fdc (1)](https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/fd33f463-6c87-4a6e-b3a0-d1ab809ce9fa)
 
+![bed71df7-3ad4-49fc-9a61-99d5cbd348da](https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/2197bcd4-5a3c-46f8-85ba-8d4b75b84046)
 
 
 **Search for the Main and check the instructions of the C code execution. It has 15 instructions in the C execution**
 
-![22acf71d-53c4-4cf7-9c14-6f4a53d7b50e](https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/b5732dfe-e939-4cea-aea3-91a406ad90da)
+![22acf71d-53c4-4cf7-9c14-6f4a53d7b50e](https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/32075673-cb27-4a9f-a8a6-1cae841c10a8)
 
+![ed512214-bca6-440e-b863-0ffabab4b78d](https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/ebe4a543-2775-4770-a8f1-f25874c580d2)
 
-![ed512214-bca6-440e-b863-0ffabab4b78d](https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/aa7c080e-d2ca-4775-b344-1dc2a7c643b8)
 
 
 
 **Step 4:**
 
 **riscv64-unknown-elf-gcc -Ofast -mabi=lp64 -march=rv64i -o sum1ton.o sum1ton.c**
-![866a985b-fb26-429e-9ca5-39f081194087](https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/e247e929-4cbf-4a73-b18d-6c7417c84723)
+![20492d85-23c5-4810-a039-5a27a98e977e](https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/2655168b-8065-4d90-8118-3a6014037e0b)
 
-
-![9cf91f74-35e7-4777-b7b4-06a444850bb3](https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/1cdcace5-874c-4117-bc7c-94d512fbd734)
-
+![ec3803e4-ab24-446e-abff-0710f024933d (1)](https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/0fdc5237-8229-4f13-b9f8-e1f81db6f378)
 
 
 
