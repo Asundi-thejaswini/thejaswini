@@ -4,8 +4,9 @@
 
 **AS PER THE REQUIREMENT OUTPUT OF GCC (F1) SHOULD BE EQUAL = TO OUTPUT OF RISCV GCC (F2)**
 
+![IMG-20240227-WA0069.jpg](https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/cd1a4a12-caf3-44d4-9c52-2e07b1d64a38)
 
-![WhatsApp Image 2024-02-28 at 19 31 54_cd846589](https://github.com/Abdulbitm/Abdul/assets/160620896/f054163c-a5ba-464d-9d89-b310052be406)
+
 
 **Step - 1: To Run the code in the normal GCC Compiler**
             **To compile the code: gcc sum1ton.c -o sum1ton**
@@ -19,7 +20,14 @@
 
   
 
-  ![WhatsApp Image 2024-02-28 at 19 41 34_d3e9b53a](https://github.com/Abdulbitm/Abdul/assets/160620896/6d28b21e-3b58-4f46-8cc0-accee9fb4976)
+![Screenshot from 2024-02-28 20-47-22.png](https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/10d4894a-7eef-42d4-b214-2a6b2ce13ea4)
 
-  
-![WhatsApp Image 2024-02-28 at 19 41 36_d7540535](https://github.com/Abdulbitm/Abdul/assets/160620896/a69f260c-d9e9-4918-8668-5ea885113a6b)
+
+
+![Screenshot from 2024-02-28 20-52-59.png](https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/7e07357c-34b5-4c71-a813-f9329498231b)
+
+
+
+![Screenshot from 2024-02-28 20-58-29.png](https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/6fd6098a-f02c-44f0-9ca7-eaa00701caae)
+
+
