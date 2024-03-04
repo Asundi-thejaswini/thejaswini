@@ -69,45 +69,44 @@ $ ./hello
  The output waveform showing the instructions performed in a 5-stage pipelined architecture.
  
  Instruction 1:add r6,r2,r1
- <img width="1282" alt="1" src="https://github.com/Abdulbitm/Abdul/assets/160620896/9475de20-c117-476a-bebc-54dd3548c109">
+<img width="1282" alt="309717644-9475de20-c117-476a-bebc-54dd3548c109" src="https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/2ce8edf3-0141-4508-8179-7f4db7d591d1">
 
  Instruction 2:sub r7,r1,r2
- <img width="1280" alt="2" src="https://github.com/Abdulbitm/Abdul/assets/160620896/2c95f18f-191e-4500-9cda-e7e838d1e609">
+<img width="1280" alt="309717941-2c95f18f-191e-4500-9cda-e7e838d1e609" src="https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/0ded0c7d-3f1f-4289-861e-6df73f6e84d9">
 
 Instruction 3:and r8,r1,r3
-<img width="1282" alt="3" src="https://github.com/Abdulbitm/Abdul/assets/160620896/18bfdf76-1173-4984-b50b-83443ab48596">
+<img width="1282" alt="309718134-18bfdf76-1173-4984-b50b-83443ab48596" src="https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/ac4c3a4c-be89-4239-a24a-d4c38b7feda2">
 
 Instruction 4:or r9,r2,r5
-<img width="1294" alt="4" src="https://github.com/Abdulbitm/Abdul/assets/160620896/4f214bb2-c934-4778-bf46-841efe877fb8">
+<img width="1294" alt="309718310-4f214bb2-c934-4778-bf46-841efe877fb8" src="https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/9c8d2f9f-ab9e-4a48-a39b-108587a95370">
 
  Instruction 5:xor r10,r1,r4
- <img width="1293" alt="5" src="https://github.com/Abdulbitm/Abdul/assets/160620896/6fa91f49-5e73-4133-8bf6-84ec4aca64da">
+<img width="1293" alt="309718453-6fa91f49-5e73-4133-8bf6-84ec4aca64da" src="https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/93d69bd6-2f1f-47c3-b700-d6ec8213b511">
 
  Instruction 6:slt r11,r2,r4
-<img width="1290" alt="6" src="https://github.com/Abdulbitm/Abdul/assets/160620896/c9c32048-62ed-4f55-8e11-9763816b1bd1">
+<img width="1290" alt="309718574-c9c32048-62ed-4f55-8e11-9763816b1bd1" src="https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/a641d0c6-2c68-4463-9000-d4a53e3384fd">
 
  Instruction 7:addi r12,r4,5
- <img width="1285" alt="7" src="https://github.com/Abdulbitm/Abdul/assets/160620896/308b8a9d-46c8-4a0e-8824-90e11d9a6a1e">
+<img width="1285" alt="309718717-308b8a9d-46c8-4a0e-8824-90e11d9a6a1e" src="https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/80c76b79-7610-4b89-b67a-c5b9b996c36a">
 
  Instruction 8:sw r3,r1,2
- <img width="1280" alt="8" src="https://github.com/Abdulbitm/Abdul/assets/160620896/84f16d7f-9d16-4236-b64d-615e187a00ff">
+<img width="1280" alt="309718858-84f16d7f-9d16-4236-b64d-615e187a00ff" src="https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/149fd321-6926-44fd-bb30-9ca17b17e3b0">
 
  Instruction 9:lw r13,r1,2
-<img width="1295" alt="9" src="https://github.com/Abdulbitm/Abdul/assets/160620896/c7bc7d9a-6745-4eeb-903d-fa723dca1394">
+<img width="1295" alt="309719046-c7bc7d9a-6745-4eeb-903d-fa723dca1394" src="https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/3a8f0614-e3e8-4887-acf1-342d2d0ceeba">
 
  Instruction 10:beq r0,r0,15
- <img width="1287" alt="10" src="https://github.com/Abdulbitm/Abdul/assets/160620896/a1c6781f-c301-45d9-a502-fb32e6204e4c">
+<img width="1287" alt="309719144-a1c6781f-c301-45d9-a502-fb32e6204e4c" src="https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/0d132698-b3e9-4a04-8c87-24777c8b832d">
 
  After branching, performing
  Instruction 11:add r14,r2,r2
- <img width="1287" alt="11" src="https://github.com/Abdulbitm/Abdul/assets/160620896/56b50ce0-60aa-41fe-8f53-0b4583b39665">
+<img width="1287" alt="309719297-56b50ce0-60aa-41fe-8f53-0b4583b39665" src="https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/92286760-87da-4d0c-affa-05bc90dc5cd6">
 
   Full 5-stage instruction pipeline and pc-increment description Waveform
-  
-<img width="1325" alt="12" src="https://github.com/Abdulbitm/Abdul/assets/160620896/e5ebc923-ad2c-44fc-a577-3ce7b8419bce">
+<img width="1325" alt="309719447-e5ebc923-ad2c-44fc-a577-3ce7b8419bce" src="https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/05df603c-bbee-4d09-a61d-cf2aa0849670">
 
-![w6](https://github.com/Abdulbitm/Abdul/assets/160620896/d39e08b3-38e9-43bd-a814-c53faebf0607)
+![Screenshot from 2024-03-02 12-54-10](https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/46cf7bdb-3c56-41b6-8467-689ccaf03c46)
 
-![RISCV_folder](https://github.com/Abdulbitm/Abdul/assets/160620896/669887ed-9ab6-48f1-8cf8-83e5f3eec2bd)
+![Screenshot from 2024-03-02 12-41-22](https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/96bd3bd6-36ba-4fd6-a7a3-2b0b85bea856)
 
 
