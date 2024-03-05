@@ -55,7 +55,8 @@ This project provides an insight into the working of a few important instruction
 $ iverilog -o hello hello.v hello_tb.v
 $ ./hello
 ```
-![Screenshot from 2024-03-02 12-27-38](https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/52c6c7ab-eb6f-42c8-86fb-2aa113d4dbe1)
+![Screenshot from 2024-03-02 12-52-17.png](https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/50497697-05fb-4b00-9853-c7cb24c2ab14)
+
 
 
 - **To see the output waveform in gtkwave, enter the following commands in your terminal.**
