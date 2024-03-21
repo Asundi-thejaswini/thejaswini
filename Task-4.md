@@ -42,7 +42,7 @@ gtkwave thejaswini.vcd**
 
 2. Upon adding few signals the waves can be see as shown in the below figure
 
-   ![WhatsApp Image 2024-03-14 at 14 50 22_1ccd2d4a](https://github.com/Abdulbitm/Abdul/assets/160620896/edd173c1-6e89-4164-b5cb-b77a12d78c9b)
+![Screenshot from 2024-03-20 22-39-32](https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/3752fab9-3b6b-4b2c-ac55-a8706ea918f1)
 
 
 **Output showing the ADD Operation in decimal**
