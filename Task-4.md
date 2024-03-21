@@ -47,12 +47,12 @@ gtkwave thejaswini.vcd**
 
 **Output showing the ADD Operation in decimal**
 
-![Screenshot from 2024-03-20 22-38-39](https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/4b9140e9-bcce-429d-ab2f-7918f62b2263)
+![Screenshot from 2024-03-20 22-38-39](https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/87fd68c7-ae6c-4182-adce-3e29d082db43)
 
 
 **Output showing the SUB Operation in decimal**
 
-![Screenshot from 2024-03-20 22-38-44](https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/4b759795-1515-423a-a36b-758cdaa74a80)
+![Screenshot from 2024-03-20 22-38-44](https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/b3250a56-ee8c-4aba-a8c0-c648892f7879)
 
 **Output showing the  Logical AND Operation in binary**
 
