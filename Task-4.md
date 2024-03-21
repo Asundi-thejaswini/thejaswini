@@ -2,10 +2,14 @@ ls - show the list of contents present in the current directory
 
 ![Screenshot from 2024-03-20 22-32-47](https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/65c3422e-2eec-4455-bae5-79eadfe8e2ec)
 
-**after running the command ls
+after running ls command 
+
+![Screenshot from 2024-03-21 11-57-14](https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/577631a9-dab2-42d7-8190-e71fa2c9983f)
+
+**after running the command 
 gtkwave thejaswini.vcd**
 
-![Screenshot from 2024-03-21 11-57-14](https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/23d6a98e-1020-4ad4-a90e-55c4fe479f21)
+![Screenshot from 2024-03-20 22-33-18](https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/d912676c-7768-4538-a8de-b5280015a053)
 
 
 **Before moving to the execution of the instructions let us understand few parts of a verilog code**
