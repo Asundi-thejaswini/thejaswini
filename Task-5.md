@@ -1,7 +1,10 @@
-ls - show the list of contents present in current directory
-**after running the command ls gtkwave thejaswini.vcd**
+ls - show the list of contents present in current directory and after ls command 
 
 ![Screenshot from 2024-03-20 23-04-27](https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/522112b8-9a65-440c-9328-492317c5ed72)
+
+**after running the command gtkwave thejaswini.vcd**
+
+![Screenshot from 2024-03-20 22-33-18](https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/5c4e47f9-ba36-4c3d-86a4-d05a8521c434)
 
 **Operations
 ADD Operation in decimal**
