@@ -1,4 +1,4 @@
-ls - show the list of contents present in current directory and after ls command 
+ls - show the list of contents present in current directory and after running ls command 
 
 ![Screenshot from 2024-03-20 23-04-27](https://github.com/Asundi-thejaswini/thejaswini/assets/120015783/522112b8-9a65-440c-9328-492317c5ed72)
 
